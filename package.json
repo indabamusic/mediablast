@@ -7,7 +7,7 @@
     "test": "mocha --reporter spec --timeout 6000 test/test.js",
     "test-server": "node-dev test/server.js"
   },
-  "repository": "git://github.com/superjoe30/mediablast.git",
+  "repository": "git://github.com:indabamusic/mediablast.git",
   "keywords": [
     "generic",
     "media",
